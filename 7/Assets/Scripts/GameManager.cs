@@ -10,6 +10,7 @@ public class gameManager : MonoBehaviour
    
     private int score;
     public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI livesText;
     public TextMeshProUGUI gameOverText;
     public TextMeshProUGUI gameWonText;
     public TextMeshProUGUI welcomeText;

@@ -360,8 +360,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2023.1.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/KeySpawner.cs"
+"Assets/Scripts/ObstacleMovement.cs"
 "Assets/Scripts/PlayerController.cs"
-"Assets/Scripts/PlayerController1.cs"
 "Assets/Scripts/Target.cs"
 -langversion:9.0
 
